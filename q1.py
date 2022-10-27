@@ -1,4 +1,5 @@
 ################################# Question 1 ###################################
+import random
 
 # PART A
 # Modify the function called flip_fair_coin that returns "heads" half the time
