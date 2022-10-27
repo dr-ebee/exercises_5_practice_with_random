@@ -11,7 +11,7 @@ def flip_fair_coin():
     Returns:
     str: returns either "heads" or "tails" with equal probability
     """
-    #pass
+    pass
 
 # PART B
 # Modify the function main that uses a for loop to run the `flip_fair_coin`
