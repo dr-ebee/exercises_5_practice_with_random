@@ -5,7 +5,7 @@ Overall Grade (out of 35)
 * Readiness (out of 10, 2 per question)
     * code runs with no errors
 * Correctness (out of 20, 5 per question)
-    * code addresses the question and makes the right calculation
+    * code addresses the question and makes the right calculation based on the instructions
 * Documentation (out of 5)
     * small commits
     * good commit messages
