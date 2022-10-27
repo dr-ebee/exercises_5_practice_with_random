@@ -9,10 +9,14 @@
 
 from q1 import flip_fair_coin
 
-num_heads = 0
-num_tails = 0
-for _ in range(100):
-    flip_fair_coin()
+def main():
+    num_heads = 0
+    num_tails = 0
+    for _ in range(100):
+        flip_fair_coin()
 
-print(f"{num_heads = }")
-print(f"{num_tails = }")
+    print(f"{num_heads = }")
+    print(f"{num_tails = }")
+
+if __name__ == "__main__":
+    main()
